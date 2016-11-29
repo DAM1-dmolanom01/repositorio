@@ -10,5 +10,7 @@ package repositorio;
  * @author dmolanom01
  */
 public class ejercicio1 {
-    
+     public static void main(String[] args) {
+        System.out.println("ejercicio1");
+    }
 }
